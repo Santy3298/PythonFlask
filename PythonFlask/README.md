@@ -1,4 +1,4 @@
-Created Date: 30 Jan 2019
+Created Date: 7 September 2023
 
 # Getting started with Flask
 An easy way to get started with Flask for Beginners
@@ -19,13 +19,11 @@ The static folder will have your CSS and images while templates will hold your H
 #### INSTALLATION GUIDE:
 open your terminal and
 
-` git clone https://github.com/pemagrg1/flask-for-beginners.git`
+` git clone https://github.com/Santy3298/PythonFlask.git`
 
-`cd flask-for-beginners`
+`cd flask`
 
 `$ python3 api.py`
 
 
-## for FULL NLP flask website:
 
-Download from : https://github.com/pemagrg1/NLP-Flask-Website
